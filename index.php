@@ -14,6 +14,7 @@
 		<div id="wrapper">
 			<div id="header">
 				<h2>Работа с Git</h2>
+				<p>После изменения текста нужно сделать Commit.</p>
 			</div> 
 
 			<div id="content">
