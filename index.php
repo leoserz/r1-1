@@ -14,13 +14,13 @@
 		<div id="wrapper">
 			<div id="header">
 				<h2>Работа с Git</h2>
-				<p>После изменения текста нужно сделать Commit.</p>
 			</div> 
 
 			<div id="content">
 
 				<h2>Список файлов в проекте</h2>
 				<?php ShowFiles(); ?>
+				<p>После изменения текста нужно сделать Commit.</p>
 
 			</div>
 			<div id="footer">
